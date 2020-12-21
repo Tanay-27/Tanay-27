@@ -2,7 +2,7 @@
 Upcoming Projects ( Open for contributions )
 1. Handwritten Text OCR
 2. Human Pose Estimation
-3. 8051 - EEPROM 
+3. 8051 - esp8266 (generic)
 
 - Machine Learning
   1. Titanic Susrvival Prediction

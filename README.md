@@ -1,6 +1,6 @@
 ### Tanay Shah 👋
 Upcoming Projects ( Open for contributions )
-1. Handwritten Text OCR
+1. Orientation Estimation Using IMUs
 2. Human Pose Estimation
 3. 8051 - esp8266 (generic)
 
@@ -10,6 +10,11 @@ Upcoming Projects ( Open for contributions )
   3. MNIST Digit recogniser
   4. MNIST Sign Language Recogniser
   5. Movielens Recomendation System
+  6. HackerEarth Deep Learning Challenge - Snake in the Hood
+  7. HackerEarth Deep Learning Challenge - Time to be Jolly
+  8. HackerEarth Machine Learning Challenge - Price Prediction
+  9. HackerEarth Machine Learning CHallenge - Cost Estimation
+  
 - Computer Vision
   1. Smile Detection
   2. Drowsiness Detection

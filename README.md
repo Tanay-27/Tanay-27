@@ -1,7 +1,5 @@
 ### Tanay Shah 👋
-Upcoming Projects ( Open for contributions )
-1. Orientation Estimation and Linear Movement Estimation Using IMUs
-2. Wifi based Home Automation Module
+
 - Machine Learning
   1. Titanic Susrvival Prediction
   2. Boston Housing Prices 

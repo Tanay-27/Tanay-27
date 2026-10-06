@@ -5,7 +5,7 @@ Backend engineer who takes LLMs out of the demo and into customers' real pipelin
 ```python
 class Tanay:
     role     = "SDE-2 @ Appknox"
-    focus    = ["agentic harnesses", "RAG + vector search", "shipping AI into enterprise workflows"]
+    focus    = ["agentic harnesses", "RAG + vector search", "LLM context engineering", "shipping AI into enterprise workflows"]
     daily    = ["Python", "Django", "LangGraph", "Qdrant", "Docker", "k8s"]
     also     = ["Rust (for fun)", "TypeScript", "Node.js"]
     currently = "making agents earn trust: verify first, then fix"
@@ -13,10 +13,10 @@ class Tanay:
 
 ## 🔭 What I'm working on
 
-- **AI that fits into how teams already work** — LangGraph agents and vector search that cut through noisy security signals, validate findings in sandboxes, and hand developers a fix they can merge, not a report to triage.
+- **AI that fits into how teams already work** — LangGraph agents that build the right context for LLM reasoning, cut through noisy SAST/DAST signals, validate findings in sandboxes, and hand developers a fix they can merge, not a report to triage.
 - **Meeting developers where they are** — MCP integration that puts remediation inside the IDE, and public REST APIs and async workers that enterprise clients wire into their own CI/CD.
 - **Making hard things usable** — guided, sandboxed security testing for engineers who aren't security specialists.
-- **Scale problems** — threat detection across millions of apps: feature engineering, similarity search, async pipelines.
+- **Scale problems** — a mobile threat intelligence pipeline covering 3M+ apps across global stores: metadata feature engineering, logo similarity models, vector search.
 
 ## 🧪 Side projects
 
